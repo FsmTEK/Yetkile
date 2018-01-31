@@ -6,12 +6,9 @@ defined('BASEPATH') OR exit('Direk Erişim Yasak...');
 | Yetki Ayarları
 | -------------------------------------------------------------------
 | Bu Kütüphane Codeigniter 3 e yetkilendirme yapması için yazılmıştır.
-|
 | -------------------------------------------------------------------
 | Kod ve Açıklamaları
 | -------------------------------------------------------------------
-|
-|
 */
 $ayar_yetki=array();
 $ayar_yetki["default"]=array(
